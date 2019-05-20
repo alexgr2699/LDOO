@@ -1,0 +1,48 @@
+body{
+	background:#D8D8D8;
+}
+.Reglas{
+	font-size: 20px;
+	color: black;
+}
+form a{
+	background:#D8D8D8;
+	color:blue;
+	border:2px solid #000;
+}
+form{
+	background:#A9E2F3;
+	width:318px;
+	position:relative;
+	bottom:210px;
+}
+img{
+	position:relative;
+	top:10px;
+	left: 400px;
+}
+.lista{
+	background:#000
+}
+.lista li{
+	display:inline-block;
+}
+.lista li a{
+	padding:10px 20px;
+	display:inline-block;
+	color #fff;
+	text-decoration:none
+}
+.lista > li{
+	float:left;
+}
+.lista li ul{
+	display:none;
+	position: absolute;
+}
+.lista li a:hover{
+	background:#ccc;
+}
+.lista li:hover>ul{
+	display:block
+}

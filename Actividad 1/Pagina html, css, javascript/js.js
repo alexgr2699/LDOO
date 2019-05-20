@@ -1,0 +1,1 @@
+alert("Recuerda que utilizar un arma contra alguien esta mal, solo compra armas para tu proteccion");
